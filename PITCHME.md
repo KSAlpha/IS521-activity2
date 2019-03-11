@@ -94,3 +94,15 @@ This is an open source project, see: https://github.com/PLUS-POSTECH/Owl
 @snap[south project-comments]
 This is an open source project, see https://github.com/PLUS-POSTECH/Soma
 @snapend
+
++++
+
+![Soma Demo](assets/soma_1.jpg)
+
++++
+
+![Soma Demo](assets/soma_2.jpg)
+
+---
+
+# Thank you.
