@@ -34,6 +34,10 @@ Interested in **almost all** security stuffs.
 
 @css[project-desc](Camera attached projector with gesture control and screen manipulation with markers)
 
++++
+
+![Interactive Projector Demo](https://www.youtube.com/embed/jJsju9K2hv8)
+
 ---
 
 ## xWorkspace
@@ -54,6 +58,18 @@ Interested in **almost all** security stuffs.
 Real instance running on: https://study.plus.or.kr<br>
 This is an open source project, see: https://github.com/PLUS-POSTECH/study.plus.or.kr
 @snapend
+
++++
+
+![study.plus.or.kr Demo](assets/study_1.jpg)
+
++++
+
+![study.plus.or.kr Demo](assets/study_2.jpg)
+
++++
+
+![study.plus.or.kr Demo](assets/study_3.jpg)
 
 ---
 
