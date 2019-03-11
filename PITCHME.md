@@ -103,6 +103,10 @@ This is an open source project, see https://github.com/PLUS-POSTECH/Soma
 
 ![Soma Demo](assets/soma_2.jpg)
 
++++
+
+![Soma Demo](assets/soma_3.png)
+
 ---
 
 # Thank you.
