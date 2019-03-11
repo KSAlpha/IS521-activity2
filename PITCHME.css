@@ -1,0 +1,17 @@
+.tech-stack {
+    font-size: 0.6em !important;
+}
+
+.project-desc {
+    font-size: 0.7em !important;
+}
+
+.project-comments {
+    width: 100% !important;
+    font-size: 0.5em !important;
+}
+
+.reveal section img {
+    border: 0;
+    box-shadow: none;
+}

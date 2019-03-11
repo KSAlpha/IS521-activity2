@@ -1,0 +1,22 @@
+#
+# Original from "GitPitch Demo Deck (https://raw.githubusercontent.com/gitpitch/demo-deck/master/PITCHME.yaml)"
+# Modified by Kangsu Kim
+#
+
+#
+# Theme Setting
+# Doc: https://gitpitch.com/docs/settings/theme
+#
+theme : simple
+
+#
+# Theme-Override Setting
+# Doc: https://gitpitch.com/docs/settings/custom-theme
+#
+theme-override : PITCHME.css
+
+#
+# Layout Setting
+# Doc: https://gitpitch.com/docs/settings/layout
+#
+layout : center
