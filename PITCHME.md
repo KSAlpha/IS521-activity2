@@ -1,12 +1,12 @@
 # Who am I?
 
-### 20193052 Kangsu Kim (GSIS)
-
 ---
 
 ## Kangsu Kim
 
 BS in Creative IT Engineering (POSTECH)
+
+Now in GSIS, KAIST
 
 Interested in **almost all** security stuffs.
 
@@ -14,13 +14,13 @@ Interested in **almost all** security stuffs.
 
 ## What can I do?
 
-![quadrant](quadrant_1.png)
+![Quadrant](quadrant_1.png)
 
 ---
 
 ## What can I do?
 
-![quadrant](quadrant_2.png)
+![Quadrant with emphasis](quadrant_2.png)
 
 ---
 
